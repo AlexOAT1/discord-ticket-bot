@@ -1,0 +1,19 @@
+{
+    "channels": {
+        "1249387653686759535": {
+            "reasons": [
+                "Giveaway",
+                "Support"
+            ],
+            "info": "W\u00e4hle unten eine Kategorie aus, um ein Ticket zu \u00f6ffnen. Du kannst das Ticket danach selbst schlie\u00dfen.",
+            "info2": "Klicke unten um das Ticket zu l\u00f6schen.",
+            "deleteticket": "Ticket l\u00f6schen"
+        },
+        "1277932182723104831": {
+            "info": "ho"
+        }
+    },
+    "info2_text": "Danke f\u00fcr dein Ticket!",
+    "deleteticket_text": "Ticket schlie\u00dfen",
+    "allowed_roles": []
+}
